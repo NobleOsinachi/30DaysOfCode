@@ -1,0 +1,23 @@
+{
+  "name": "30-days-of-code",
+  "version": "1.0.0",
+  "description": "HackerRank 30DaysOfCode challenge solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NobleOsinachi/30DaysOfCode.git"
+  },
+  "keywords": [
+    "30daysofcode",
+    "typescript"
+  ],
+  "author": "Noble Chukwukere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NobleOsinachi/30DaysOfCode/issues"
+  },
+  "homepage": "https://github.com/NobleOsinachi/30DaysOfCode#readme"
+}
