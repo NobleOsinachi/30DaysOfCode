@@ -10,7 +10,7 @@ REM Create the folder with the timestamp as its name
 mkdir %timestamp%
 
 REM Create the timestamp.txt file inside the folder
-echo %timestamp% > %timestamp%\%timestamp%.txt
+echo MODELS > %timestamp% > %timestamp%\%timestamp%.txt
 
 
 
