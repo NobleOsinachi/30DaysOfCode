@@ -31,3 +31,4 @@ git push origin
 
 REM Disable delayed expansion
 endlocal
+cmd
