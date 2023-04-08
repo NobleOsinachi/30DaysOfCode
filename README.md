@@ -1,4 +1,4 @@
-"# 30DaysOfCode" 
+# 30DaysOfCode
 
 This can be a fun and challenging way to improve your programming skills.
 
@@ -14,4 +14,4 @@ To make the most of this challenge, you can follow these steps:
 
 + Celebrate your achievements. At the end of the 30 days, take some time to reflect on what you've accomplished. Even if you didn't achieve your initial goal, you've still made progress and learned new skills.
 
-Good luck and have fun with your 30DaysOfCode challenge!
+Good luck and have fun the challenge!
